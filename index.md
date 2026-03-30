@@ -9,3 +9,7 @@
  - <a href="lectures/sec/sec-002--red-team-pentester-researcher.pdf">Slides</a>
  - <a href="lectures/sec/sec-002--red-team-pentester-researcher--handout.pdf">Handout</a>
 
+### 003 - Defense, Prevent, Mitigate, Respond and Test
+ - <a href="lectures/sec/sec-003--blue-team-defense.pdf">Slides</a>
+ - <a href="lectures/sec/sec-003--blue-team-defense--handout.pdf">Handout</a>
+
