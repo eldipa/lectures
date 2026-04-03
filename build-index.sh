@@ -42,6 +42,7 @@ while IFS= read -r line || [[ -n "$line" ]]; do
 
         pdf="$course_dir/$slug.pdf"
         handout="$course_dir/$slug--handout.pdf"
+        links="$course_dir/$slug--links"
 
         cnt=$((cnt + 1))
         echo "### $(printf "%03d" $cnt) - $lecture_name"
@@ -52,6 +53,16 @@ while IFS= read -r line || [[ -n "$line" ]]; do
 
         if [[ -f "$handout" ]]; then
             echo " - <a href=\"$handout\">Handout</a>"
+        fi
+
+        if [[ -f "$links" ]]; then
+            while read -r xlline || [[ -n "$xlline" ]]; do
+                # Parse "url -> Link Pretty Name"
+                link_url="${xlline%% -> *}"
+                link_name="${xlline#* -> }"
+
+                echo " - <a href=\"$link_url\">$link_name</a>"
+            done < "$links"
         fi
 
         echo ""

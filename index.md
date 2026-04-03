@@ -18,4 +18,5 @@
 ### 001 - Introduction to Multithreading
  - <a href="lectures/taller/taller-004-intro-threads.pdf">Slides</a>
  - <a href="lectures/taller/taller-004-intro-threads--handout.pdf">Handout</a>
+ - <a href="https://github.com/eldipa/hands-on-threads">Hands On Threads (code examples)</a>
 
