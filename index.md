@@ -13,3 +13,9 @@
  - <a href="lectures/sec/sec-003--blue-team-defense.pdf">Slides</a>
  - <a href="lectures/sec/sec-003--blue-team-defense--handout.pdf">Handout</a>
 
+## Programming
+
+### 001 - Introduction to Multithreading
+ - <a href="lectures/taller/taller-004-intro-threads.pdf">Slides</a>
+ - <a href="lectures/taller/taller-004-intro-threads--handout.pdf">Handout</a>
+
