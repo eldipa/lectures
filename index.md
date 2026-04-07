@@ -13,6 +13,10 @@
  - <a href="lectures/sec/sec-003--blue-team-defense.pdf">Slides</a>
  - <a href="lectures/sec/sec-003--blue-team-defense--handout.pdf">Handout</a>
 
+### 004 - Secure Channels I - Symmetric Encryption, MACs and KDFs
+ - <a href="lectures/sec/sec-004--crypto-sym-stream-mac-key-kdf.pdf">Slides</a>
+ - <a href="lectures/sec/sec-004--crypto-sym-stream-mac-key-kdf--handout.pdf">Handout</a>
+
 ## Programming
 
 ### 001 - Introduction to Multithreading
