@@ -17,6 +17,10 @@
  - <a href="lectures/sec/sec-004--crypto-sym-stream-mac-key-kdf.pdf">Slides</a>
  - <a href="lectures/sec/sec-004--crypto-sym-stream-mac-key-kdf--handout.pdf">Handout</a>
 
+### 005 - Secure Channels II - Asymmetric Encryption, Diffie-Hellman, Signatures, Certificates, Web of Trust
+ - <a href="lectures/sec/sec-005--crypto-asym-sign-groups-dh-certs-keypath-web-trust.pdf">Slides</a>
+ - <a href="lectures/sec/sec-005--crypto-asym-sign-groups-dh-certs-keypath-web-trust--handout.pdf">Handout</a>
+
 ## Programming
 
 ### 001 - Introduction to Multithreading
