@@ -21,6 +21,9 @@
  - <a href="lectures/sec/sec-005--crypto-asym-sign-groups-dh-certs-keypath-web-trust.pdf">Slides</a>
  - <a href="lectures/sec/sec-005--crypto-asym-sign-groups-dh-certs-keypath-web-trust--handout.pdf">Handout</a>
 
+### 006 - Exploit - Buffer Overflow, ROP, NX, CFI, Canary
+ - <a href="lectures/sec/sec-006--buffer-overflow-rop-canary.pdf">Slides</a>
+
 ## Programming
 
 ### 001 - Introduction to Multithreading
