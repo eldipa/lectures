@@ -23,6 +23,7 @@
 
 ### 006 - Exploit - Buffer Overflow, ROP, NX, CFI, Canary
  - <a href="lectures/sec/sec-006--buffer-overflow-rop-canary.pdf">Slides</a>
+ - <a href="lectures/sec/sec-006--buffer-overflow-rop-canary--handout.pdf">Handout</a>
 
 ## Programming
 
