@@ -25,6 +25,10 @@
  - <a href="lectures/sec/sec-006--buffer-overflow-rop-canary.pdf">Slides</a>
  - <a href="lectures/sec/sec-006--buffer-overflow-rop-canary--handout.pdf">Handout</a>
 
+### 007 - Sandbox at OS level - Seccomp, cgroups, namespaces, capabilities and more
+ - <a href="lectures/sec/sec-007--sandbox-os-level.pdf">Slides</a>
+ - <a href="lectures/sec/sec-007--sandbox-os-level--handout.pdf">Handout</a>
+
 ## Programming
 
 ### 001 - Introduction to Multithreading
