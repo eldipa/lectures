@@ -29,6 +29,10 @@
  - <a href="lectures/sec/sec-007--sandbox-os-level.pdf">Slides</a>
  - <a href="lectures/sec/sec-007--sandbox-os-level--handout.pdf">Handout</a>
 
+### 008 - Sandbox at VM level - Virtual Machine, Virtualization, Emulation, Hypervisor and Row Hammering
+ - <a href="lectures/sec/sec-008--sandbox-vm-level-virtual-machine-virtualization-emulation-hypervisor-row-hammering.pdf">Slides</a>
+ - <a href="lectures/sec/sec-008--sandbox-vm-level-virtual-machine-virtualization-emulation-hypervisor-row-hammering--handout.pdf">Handout</a>
+
 ## Programming
 
 ### 001 - Introduction to Multithreading
