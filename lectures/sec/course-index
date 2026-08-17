@@ -1,8 +1,15 @@
+# Threats, Blue and Red Teams
 sec-001--threat-model-mechanisms-policies -> Threat Model, Mechanisms and Policies
 sec-002--red-team-pentester-researcher -> Red Team, Pentester and Researcher
 sec-003--blue-team-defense -> Defense, Prevent, Mitigate, Respond and Test
+
+# Cryptography
 sec-004--crypto-sym-stream-mac-key-kdf -> Secure Channels I - Symmetric Encryption, MACs and KDFs
 sec-005--crypto-asym-sign-groups-dh-certs-keypath-web-trust -> Secure Channels II - Asymmetric Encryption, Diffie-Hellman, Signatures, Certificates, Web of Trust
+
+# Exploit
 sec-006--buffer-overflow-rop-canary -> Exploit - Buffer Overflow, ROP, NX, CFI, Canary
+
+# Sandboxing
 sec-007--sandbox-os-level -> Sandbox at OS level - Seccomp, cgroups, namespaces, capabilities and more
 sec-008--sandbox-vm-level-virtual-machine-virtualization-emulation-hypervisor-row-hammering -> Sandbox at VM level - Virtual Machine, Virtualization, Emulation, Hypervisor and Row Hammering

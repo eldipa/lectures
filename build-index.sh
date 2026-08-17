@@ -15,7 +15,8 @@ HTMLHEAD
 
 while IFS= read -r line || [[ -n "$line" ]]; do
     # Skip blank lines
-    [[ -z "$line" ]] && continue
+    [[ -z "$(echo "$line" | xargs)" ]] && continue
+    [[ "$(echo "$line" | xargs)" == "#"* ]] && continue
 
     # Parse "course-id : Course Pretty Name"
     course_id="${line%% : *}"
@@ -34,7 +35,8 @@ while IFS= read -r line || [[ -n "$line" ]]; do
 
     cnt=0
     while IFS= read -r lline || [[ -n "$lline" ]]; do
-        [[ -z "$lline" ]] && continue
+        [[ -z "$(echo "$lline" | xargs)" ]] && continue
+        [[ "$(echo "$lline" | xargs)" == "#"* ]] && continue
 
         # Parse "lecture-slug -> Lecture Pretty Name"
         slug="${lline%% -> *}"
