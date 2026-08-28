@@ -40,3 +40,7 @@
  - <a href="lectures/taller/taller-004-intro-threads--handout.pdf">Handout</a>
  - <a href="https://github.com/eldipa/hands-on-threads">Hands On Threads (code examples)</a>
 
+### 002 - Using AI for Software Development
+ - <a href="lectures/taller/taller-002--using-ai-for-dev.pdf">Slides</a>
+ - <a href="lectures/taller/taller-002--using-ai-for-dev--handout.pdf">Handout</a>
+
