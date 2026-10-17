@@ -33,6 +33,10 @@
  - <a href="lectures/sec/sec-008--sandbox-vm-level-virtual-machine-virtualization-emulation-hypervisor-row-hammering.pdf">Slides</a>
  - <a href="lectures/sec/sec-008--sandbox-vm-level-virtual-machine-virtualization-emulation-hypervisor-row-hammering--handout.pdf">Handout</a>
 
+### 009 - Advanced Exploits and Kernel Exploits
+ - <a href="lectures/sec/sec-00B--advanced-exploit-and-kernel-exploit.pdf">Slides</a>
+ - <a href="lectures/sec/sec-00B--advanced-exploit-and-kernel-exploit--handout.pdf">Handout</a>
+
 ## Programming
 
 ### 001 - Introduction to Multithreading
