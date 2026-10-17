@@ -33,7 +33,7 @@
  - <a href="lectures/sec/sec-008--sandbox-vm-level-virtual-machine-virtualization-emulation-hypervisor-row-hammering.pdf">Slides</a>
  - <a href="lectures/sec/sec-008--sandbox-vm-level-virtual-machine-virtualization-emulation-hypervisor-row-hammering--handout.pdf">Handout</a>
 
-### 009 - Advanced Exploits and Kernel Exploits
+### 009 - Memory Corruption
  - <a href="lectures/sec/sec-00B--advanced-exploit-and-kernel-exploit.pdf">Slides</a>
  - <a href="lectures/sec/sec-00B--advanced-exploit-and-kernel-exploit--handout.pdf">Handout</a>
 
